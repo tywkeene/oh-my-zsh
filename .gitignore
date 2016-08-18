@@ -6,3 +6,7 @@ custom/
 # temp files directories
 cache/
 log/
+
+zsh_history
+zsh-update
+.zcompdump-*
